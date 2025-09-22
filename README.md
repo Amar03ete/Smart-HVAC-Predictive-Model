@@ -1,7 +1,6 @@
 # Smart HVAC Predictive Model
 
-An intelligent HVAC prediction and analysis project utilizing machine learning to optimize the performance, efficiency, and reliability of Heating, Ventilation, and Air Conditioning (HVAC) systems.
-
+An intelligent HVAC prediction and analysis project utilizing machine learning to optimize the performance, efficiency, and reliability of Heating, Ventilation, and Air Conditioning (HVAC) systems. 
 ---
 
 ## Table of Contents
